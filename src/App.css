@@ -1,0 +1,28 @@
+
+
+body {
+    background-color: #272626f1;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 15px;
+    min-height: 100vh;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.title {
+    color: #faebd7;
+    font-size: 40px;
+    font-weight: 350;
+}
+ 
